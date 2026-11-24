@@ -1,0 +1,1 @@
+﻿{"Port":1443,"Host":"127.0.0.1","DcIp":"4:149.154.167.220","Secret":"4a950429ce1a19ac81db7ae376664c4a","AutoStart":false,"AutoStartProxy":true,"CfProxy":true,"H2":true,"PoolSize":8,"BufKb":256,"Language":"ru","Verbose":false,"CfProxyWorkerDomain":""}
